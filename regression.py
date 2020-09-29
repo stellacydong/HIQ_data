@@ -36,6 +36,7 @@ df = df.astype({'surgeries_last_month': 'float',
 # surgeries_last_month + service_id + age_in_yrs + c(last_name) + hospital_id as the predictor:
 lm = sm.OLS.from_formula('surgeries_this_month ~ surgeries_last_month + service_id + age_in_yrs + C(last_name) + hospital_id', df)
 result = lm.fit()
+print('linear regression results: surgeries_this_month vs. all the rest variables' )
 print(result.summary())
 
 
@@ -44,6 +45,7 @@ print(result.summary())
 # surgeries_last_month + hospital_id as the predictor:
 lm = sm.OLS.from_formula('surgeries_this_month ~ surgeries_last_month', df)
 result = lm.fit()
+print('linear regression results: surgeries_this_month vs. surgeries_last_month' )
 print(result.summary())
 
 
