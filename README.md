@@ -39,4 +39,4 @@ Since R-squared = 0.893 which is close to 1, F-statistic = 1653 which is large, 
 
 ### What is the output of RegressionResults.summary? (Nothing other than the raw output of that method is needed.)
 
-
+![RegressionResults](RegressionResults.png)
