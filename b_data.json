@@ -1,0 +1,1622 @@
+{
+    "result_set_0": [
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 71, 
+            "surgeries_this_month": 32.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 3, 
+            "surgeries_last_month": 46, 
+            "surgeries_this_month": 48.0
+        }, 
+        {
+            "age_in_yrs": 42, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 211, 
+            "surgeries_this_month": 304.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 68, 
+            "surgeries_this_month": 102.0
+        }, 
+        {
+            "age_in_yrs": 60, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 233, 
+            "surgeries_this_month": 239.0
+        }, 
+        {
+            "age_in_yrs": 44, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 1, 
+            "surgeries_last_month": 79, 
+            "surgeries_this_month": 86.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "JONES", 
+            "service_id": 2, 
+            "surgeries_last_month": 231, 
+            "surgeries_this_month": 312.0
+        }, 
+        {
+            "age_in_yrs": 53, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 3, 
+            "surgeries_last_month": 125, 
+            "surgeries_this_month": 150.0
+        }, 
+        {
+            "age_in_yrs": 60, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 2, 
+            "surgeries_last_month": 40, 
+            "surgeries_this_month": 87.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 2, 
+            "surgeries_last_month": 103, 
+            "surgeries_this_month": 149.0
+        }, 
+        {
+            "age_in_yrs": 54, 
+            "hospital_id": 1, 
+            "last_name": "JONES", 
+            "service_id": 1, 
+            "surgeries_last_month": 209, 
+            "surgeries_this_month": 266.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 3, 
+            "surgeries_last_month": 159, 
+            "surgeries_this_month": 172.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 63, 
+            "surgeries_this_month": 87.0
+        }, 
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 114, 
+            "surgeries_this_month": 164.0
+        }, 
+        {
+            "age_in_yrs": 47, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 3, 
+            "surgeries_last_month": 23, 
+            "surgeries_this_month": 0
+        }, 
+        {
+            "age_in_yrs": 64, 
+            "hospital_id": 1, 
+            "last_name": "JONES", 
+            "service_id": 2, 
+            "surgeries_last_month": 49, 
+            "surgeries_this_month": 106.0
+        }, 
+        {
+            "age_in_yrs": 50, 
+            "hospital_id": 1, 
+            "last_name": "GARCIA", 
+            "service_id": 3, 
+            "surgeries_last_month": 192, 
+            "surgeries_this_month": 250.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "WILSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 211, 
+            "surgeries_this_month": 250.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 2, 
+            "surgeries_last_month": 72, 
+            "surgeries_this_month": 121.0
+        }, 
+        {
+            "age_in_yrs": 63, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 131, 
+            "surgeries_this_month": 213.0
+        }
+    ], 
+    "result_set_1": [
+        {
+            "age_in_yrs": 63, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 1, 
+            "surgeries_last_month": 85, 
+            "surgeries_this_month": 128.0
+        }, 
+        {
+            "age_in_yrs": 52, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 1, 
+            "surgeries_last_month": 48, 
+            "surgeries_this_month": 38.0
+        }, 
+        {
+            "age_in_yrs": 29, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 105, 
+            "surgeries_this_month": 170.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "WILSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 129, 
+            "surgeries_this_month": 141.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 21, 
+            "surgeries_this_month": 39.0
+        }, 
+        {
+            "age_in_yrs": 43, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 3, 
+            "surgeries_last_month": 232, 
+            "surgeries_this_month": 275.0
+        }, 
+        {
+            "age_in_yrs": 50, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 155, 
+            "surgeries_this_month": 187.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "MARTINEZ", 
+            "service_id": 3, 
+            "surgeries_last_month": 226, 
+            "surgeries_this_month": 231.0
+        }, 
+        {
+            "age_in_yrs": 33, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 3, 
+            "surgeries_last_month": 32, 
+            "surgeries_this_month": 0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 1, 
+            "surgeries_last_month": 157, 
+            "surgeries_this_month": 193.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 3, 
+            "surgeries_last_month": 181, 
+            "surgeries_this_month": 208.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 173, 
+            "surgeries_this_month": 196.0
+        }, 
+        {
+            "age_in_yrs": 64, 
+            "hospital_id": 1, 
+            "last_name": "GARCIA", 
+            "service_id": 2, 
+            "surgeries_last_month": 54, 
+            "surgeries_this_month": 111.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 1, 
+            "surgeries_last_month": 49, 
+            "surgeries_this_month": 50.0
+        }, 
+        {
+            "age_in_yrs": 29, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 2, 
+            "surgeries_last_month": 158, 
+            "surgeries_this_month": 234.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 160, 
+            "surgeries_this_month": 217.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 2, 
+            "surgeries_last_month": 152, 
+            "surgeries_this_month": 219.0
+        }, 
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 2, 
+            "surgeries_last_month": 89, 
+            "surgeries_this_month": 163.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 206, 
+            "surgeries_this_month": 275.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "GARCIA", 
+            "service_id": 1, 
+            "surgeries_last_month": 140, 
+            "surgeries_this_month": 124.0
+        }
+    ], 
+    "result_set_2": [
+        {
+            "age_in_yrs": 65, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 2, 
+            "surgeries_last_month": 75, 
+            "surgeries_this_month": 131.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 74, 
+            "surgeries_this_month": 114.0
+        }, 
+        {
+            "age_in_yrs": 42, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 3, 
+            "surgeries_last_month": 83, 
+            "surgeries_this_month": 92.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 3, 
+            "surgeries_last_month": 131, 
+            "surgeries_this_month": 140.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 2, 
+            "surgeries_last_month": 161, 
+            "surgeries_this_month": 219.0
+        }, 
+        {
+            "age_in_yrs": 30, 
+            "hospital_id": 1, 
+            "last_name": "JONES", 
+            "service_id": 2, 
+            "surgeries_last_month": 20, 
+            "surgeries_this_month": 53.0
+        }, 
+        {
+            "age_in_yrs": 55, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 2, 
+            "surgeries_last_month": 244, 
+            "surgeries_this_month": 329.0
+        }, 
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 1, 
+            "surgeries_last_month": 114, 
+            "surgeries_this_month": 163.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 2, 
+            "surgeries_last_month": 80, 
+            "surgeries_this_month": 110.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 3, 
+            "surgeries_last_month": 160, 
+            "surgeries_this_month": 184.0
+        }, 
+        {
+            "age_in_yrs": 47, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 114, 
+            "surgeries_this_month": 108.0
+        }, 
+        {
+            "age_in_yrs": 44, 
+            "hospital_id": 1, 
+            "last_name": "HERNANDEZ", 
+            "service_id": 3, 
+            "surgeries_last_month": 233, 
+            "surgeries_this_month": 280.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "WILSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 152, 
+            "surgeries_this_month": 194.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 231, 
+            "surgeries_this_month": 282.0
+        }, 
+        {
+            "age_in_yrs": 28, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 2, 
+            "surgeries_last_month": 183, 
+            "surgeries_this_month": 255.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 2, 
+            "surgeries_last_month": 51, 
+            "surgeries_this_month": 71.0
+        }, 
+        {
+            "age_in_yrs": 53, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 1, 
+            "surgeries_last_month": 249, 
+            "surgeries_this_month": 322.0
+        }, 
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 2, 
+            "surgeries_last_month": 158, 
+            "surgeries_this_month": 213.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 214, 
+            "surgeries_this_month": 311.0
+        }, 
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "WILSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 73, 
+            "surgeries_this_month": 76.0
+        }
+    ], 
+    "result_set_3": [
+        {
+            "age_in_yrs": 56, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 2, 
+            "surgeries_last_month": 56, 
+            "surgeries_this_month": 90.0
+        }, 
+        {
+            "age_in_yrs": 61, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 212, 
+            "surgeries_this_month": 247.0
+        }, 
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "YOUNG", 
+            "service_id": 3, 
+            "surgeries_last_month": 178, 
+            "surgeries_this_month": 196.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 1, 
+            "surgeries_last_month": 210, 
+            "surgeries_this_month": 232.0
+        }, 
+        {
+            "age_in_yrs": 45, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 3, 
+            "surgeries_last_month": 54, 
+            "surgeries_this_month": 88.0
+        }, 
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 73, 
+            "surgeries_this_month": 91.0
+        }, 
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 50, 
+            "surgeries_this_month": 32.0
+        }, 
+        {
+            "age_in_yrs": 65, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 2, 
+            "surgeries_last_month": 98, 
+            "surgeries_this_month": 162.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 34, 
+            "surgeries_this_month": 24.0
+        }, 
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 1, 
+            "surgeries_last_month": 201, 
+            "surgeries_this_month": 257.0
+        }, 
+        {
+            "age_in_yrs": 42, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 24, 
+            "surgeries_this_month": 30.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 199, 
+            "surgeries_this_month": 238.0
+        }, 
+        {
+            "age_in_yrs": 33, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 1, 
+            "surgeries_last_month": 191, 
+            "surgeries_this_month": 250.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 1, 
+            "surgeries_last_month": 108, 
+            "surgeries_this_month": 116.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 139, 
+            "surgeries_this_month": 219.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 188, 
+            "surgeries_this_month": 191.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "WILSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 122, 
+            "surgeries_this_month": 146.0
+        }, 
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 56, 
+            "surgeries_this_month": 78.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 41, 
+            "surgeries_this_month": 42.0
+        }, 
+        {
+            "age_in_yrs": 50, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 1, 
+            "surgeries_last_month": 96, 
+            "surgeries_this_month": 86.0
+        }
+    ], 
+    "result_set_4": [
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 215, 
+            "surgeries_this_month": 268.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 95, 
+            "surgeries_this_month": 97.0
+        }, 
+        {
+            "age_in_yrs": 52, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 47, 
+            "surgeries_this_month": 59.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 3, 
+            "surgeries_last_month": 80, 
+            "surgeries_this_month": 78.0
+        }, 
+        {
+            "age_in_yrs": 29, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 2, 
+            "surgeries_last_month": 125, 
+            "surgeries_this_month": 143.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 176, 
+            "surgeries_this_month": 234.0
+        }, 
+        {
+            "age_in_yrs": 37, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 2, 
+            "surgeries_last_month": 142, 
+            "surgeries_this_month": 243.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "YOUNG", 
+            "service_id": 1, 
+            "surgeries_last_month": 49, 
+            "surgeries_this_month": 58.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 3, 
+            "surgeries_last_month": 240, 
+            "surgeries_this_month": 252.0
+        }, 
+        {
+            "age_in_yrs": 55, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 1, 
+            "surgeries_last_month": 207, 
+            "surgeries_this_month": 263.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 3, 
+            "surgeries_last_month": 150, 
+            "surgeries_this_month": 140.0
+        }, 
+        {
+            "age_in_yrs": 45, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 109, 
+            "surgeries_this_month": 125.0
+        }, 
+        {
+            "age_in_yrs": 45, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 2, 
+            "surgeries_last_month": 67, 
+            "surgeries_this_month": 113.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 41, 
+            "surgeries_this_month": 95.0
+        }, 
+        {
+            "age_in_yrs": 60, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 2, 
+            "surgeries_last_month": 126, 
+            "surgeries_this_month": 201.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 2, 
+            "surgeries_last_month": 197, 
+            "surgeries_this_month": 247.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 2, 
+            "surgeries_last_month": 203, 
+            "surgeries_this_month": 267.0
+        }, 
+        {
+            "age_in_yrs": 58, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 2, 
+            "surgeries_last_month": 22, 
+            "surgeries_this_month": 59.0
+        }, 
+        {
+            "age_in_yrs": 53, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 3, 
+            "surgeries_last_month": 18, 
+            "surgeries_this_month": 0
+        }, 
+        {
+            "age_in_yrs": 37, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 163, 
+            "surgeries_this_month": 209.0
+        }
+    ], 
+    "result_set_5": [
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 3, 
+            "surgeries_last_month": 178, 
+            "surgeries_this_month": 182.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 36, 
+            "surgeries_this_month": 24.0
+        }, 
+        {
+            "age_in_yrs": 54, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 1, 
+            "surgeries_last_month": 154, 
+            "surgeries_this_month": 198.0
+        }, 
+        {
+            "age_in_yrs": 55, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 204, 
+            "surgeries_this_month": 250.0
+        }, 
+        {
+            "age_in_yrs": 31, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 201, 
+            "surgeries_this_month": 232.0
+        }, 
+        {
+            "age_in_yrs": 37, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 2, 
+            "surgeries_last_month": 48, 
+            "surgeries_this_month": 67.0
+        }, 
+        {
+            "age_in_yrs": 42, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 218, 
+            "surgeries_this_month": 320.0
+        }, 
+        {
+            "age_in_yrs": 60, 
+            "hospital_id": 1, 
+            "last_name": "HERNANDEZ", 
+            "service_id": 2, 
+            "surgeries_last_month": 248, 
+            "surgeries_this_month": 342.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 58, 
+            "surgeries_this_month": 40.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 10, 
+            "surgeries_this_month": 65.0
+        }, 
+        {
+            "age_in_yrs": 28, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 1, 
+            "surgeries_last_month": 41, 
+            "surgeries_this_month": 58.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 32, 
+            "surgeries_this_month": 40.0
+        }, 
+        {
+            "age_in_yrs": 47, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 2, 
+            "surgeries_last_month": 250, 
+            "surgeries_this_month": 328.0
+        }, 
+        {
+            "age_in_yrs": 43, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 3, 
+            "surgeries_last_month": 126, 
+            "surgeries_this_month": 112.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 3, 
+            "surgeries_last_month": 175, 
+            "surgeries_this_month": 209.0
+        }, 
+        {
+            "age_in_yrs": 28, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 3, 
+            "surgeries_last_month": 169, 
+            "surgeries_this_month": 202.0
+        }, 
+        {
+            "age_in_yrs": 43, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 1, 
+            "surgeries_last_month": 111, 
+            "surgeries_this_month": 92.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 1, 
+            "surgeries_last_month": 102, 
+            "surgeries_this_month": 136.0
+        }, 
+        {
+            "age_in_yrs": 61, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 3, 
+            "surgeries_last_month": 99, 
+            "surgeries_this_month": 121.0
+        }, 
+        {
+            "age_in_yrs": 29, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 2, 
+            "surgeries_last_month": 187, 
+            "surgeries_this_month": 272.0
+        }
+    ], 
+    "result_set_6": [
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 2, 
+            "surgeries_last_month": 145, 
+            "surgeries_this_month": 244.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "MOORE", 
+            "service_id": 2, 
+            "surgeries_last_month": 143, 
+            "surgeries_this_month": 192.0
+        }, 
+        {
+            "age_in_yrs": 47, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 1, 
+            "surgeries_last_month": 216, 
+            "surgeries_this_month": 265.0
+        }, 
+        {
+            "age_in_yrs": 44, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 215, 
+            "surgeries_this_month": 246.0
+        }, 
+        {
+            "age_in_yrs": 52, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 2, 
+            "surgeries_last_month": 44, 
+            "surgeries_this_month": 79.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 237, 
+            "surgeries_this_month": 259.0
+        }, 
+        {
+            "age_in_yrs": 63, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 3, 
+            "surgeries_last_month": 221, 
+            "surgeries_this_month": 230.0
+        }, 
+        {
+            "age_in_yrs": 33, 
+            "hospital_id": 1, 
+            "last_name": "MOORE", 
+            "service_id": 1, 
+            "surgeries_last_month": 133, 
+            "surgeries_this_month": 149.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 1, 
+            "surgeries_last_month": 104, 
+            "surgeries_this_month": 166.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 3, 
+            "surgeries_last_month": 58, 
+            "surgeries_this_month": 28.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 3, 
+            "surgeries_last_month": 178, 
+            "surgeries_this_month": 223.0
+        }, 
+        {
+            "age_in_yrs": 65, 
+            "hospital_id": 1, 
+            "last_name": "MOORE", 
+            "service_id": 2, 
+            "surgeries_last_month": 139, 
+            "surgeries_this_month": 210.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 3, 
+            "surgeries_last_month": 71, 
+            "surgeries_this_month": 49.0
+        }, 
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "MOORE", 
+            "service_id": 2, 
+            "surgeries_last_month": 117, 
+            "surgeries_this_month": 198.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "MOORE", 
+            "service_id": 1, 
+            "surgeries_last_month": 97, 
+            "surgeries_this_month": 127.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 135, 
+            "surgeries_this_month": 137.0
+        }, 
+        {
+            "age_in_yrs": 57, 
+            "hospital_id": 1, 
+            "last_name": "MARTINEZ", 
+            "service_id": 2, 
+            "surgeries_last_month": 248, 
+            "surgeries_this_month": 302.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 147, 
+            "surgeries_this_month": 128.0
+        }, 
+        {
+            "age_in_yrs": 43, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 27, 
+            "surgeries_this_month": 10.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 2, 
+            "surgeries_last_month": 165, 
+            "surgeries_this_month": 220.0
+        }
+    ], 
+    "result_set_7": [
+        {
+            "age_in_yrs": 49, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 13, 
+            "surgeries_this_month": 12.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 3, 
+            "surgeries_last_month": 206, 
+            "surgeries_this_month": 244.0
+        }, 
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 3, 
+            "surgeries_last_month": 180, 
+            "surgeries_this_month": 173.0
+        }, 
+        {
+            "age_in_yrs": 59, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 3, 
+            "surgeries_last_month": 43, 
+            "surgeries_this_month": 30.0
+        }, 
+        {
+            "age_in_yrs": 38, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 3, 
+            "surgeries_last_month": 205, 
+            "surgeries_this_month": 256.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "MARTINEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 99, 
+            "surgeries_this_month": 96.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 2, 
+            "surgeries_last_month": 232, 
+            "surgeries_this_month": 310.0
+        }, 
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "THOMPSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 121, 
+            "surgeries_this_month": 184.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 51, 
+            "surgeries_this_month": 3.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 2, 
+            "surgeries_last_month": 216, 
+            "surgeries_this_month": 296.0
+        }, 
+        {
+            "age_in_yrs": 34, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 41, 
+            "surgeries_this_month": 90.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "BROWN", 
+            "service_id": 1, 
+            "surgeries_last_month": 210, 
+            "surgeries_this_month": 245.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 153, 
+            "surgeries_this_month": 207.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "HERNANDEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 67, 
+            "surgeries_this_month": 41.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 3, 
+            "surgeries_last_month": 120, 
+            "surgeries_this_month": 132.0
+        }, 
+        {
+            "age_in_yrs": 41, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 2, 
+            "surgeries_last_month": 165, 
+            "surgeries_this_month": 220.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 2, 
+            "surgeries_last_month": 190, 
+            "surgeries_this_month": 279.0
+        }, 
+        {
+            "age_in_yrs": 56, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 2, 
+            "surgeries_last_month": 94, 
+            "surgeries_this_month": 169.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 146, 
+            "surgeries_this_month": 162.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 102, 
+            "surgeries_this_month": 141.0
+        }
+    ], 
+    "result_set_8": [
+        {
+            "age_in_yrs": 60, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 41, 
+            "surgeries_this_month": 51.0
+        }, 
+        {
+            "age_in_yrs": 52, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 1, 
+            "surgeries_last_month": 151, 
+            "surgeries_this_month": 160.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 246, 
+            "surgeries_this_month": 339.0
+        }, 
+        {
+            "age_in_yrs": 42, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 2, 
+            "surgeries_last_month": 109, 
+            "surgeries_this_month": 172.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 1, 
+            "surgeries_last_month": 192, 
+            "surgeries_this_month": 257.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "TAYLOR", 
+            "service_id": 3, 
+            "surgeries_last_month": 48, 
+            "surgeries_this_month": 60.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 2, 
+            "surgeries_last_month": 214, 
+            "surgeries_this_month": 308.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 180, 
+            "surgeries_this_month": 189.0
+        }, 
+        {
+            "age_in_yrs": 36, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 227, 
+            "surgeries_this_month": 313.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "WALKER", 
+            "service_id": 2, 
+            "surgeries_last_month": 27, 
+            "surgeries_this_month": 92.0
+        }, 
+        {
+            "age_in_yrs": 44, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 1, 
+            "surgeries_last_month": 45, 
+            "surgeries_this_month": 62.0
+        }, 
+        {
+            "age_in_yrs": 65, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 1, 
+            "surgeries_last_month": 191, 
+            "surgeries_this_month": 247.0
+        }, 
+        {
+            "age_in_yrs": 55, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 198, 
+            "surgeries_this_month": 253.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "THOMAS", 
+            "service_id": 2, 
+            "surgeries_last_month": 47, 
+            "surgeries_this_month": 78.0
+        }, 
+        {
+            "age_in_yrs": 35, 
+            "hospital_id": 1, 
+            "last_name": "LEE", 
+            "service_id": 3, 
+            "surgeries_last_month": 97, 
+            "surgeries_this_month": 122.0
+        }, 
+        {
+            "age_in_yrs": 63, 
+            "hospital_id": 1, 
+            "last_name": "RODRIGUEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 50, 
+            "surgeries_this_month": 57.0
+        }, 
+        {
+            "age_in_yrs": 37, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 109, 
+            "surgeries_this_month": 122.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "ANDERSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 79, 
+            "surgeries_this_month": 112.0
+        }, 
+        {
+            "age_in_yrs": 56, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 1, 
+            "surgeries_last_month": 71, 
+            "surgeries_this_month": 81.0
+        }, 
+        {
+            "age_in_yrs": 39, 
+            "hospital_id": 1, 
+            "last_name": "ALLEN", 
+            "service_id": 3, 
+            "surgeries_last_month": 204, 
+            "surgeries_this_month": 231.0
+        }
+    ], 
+    "result_set_9": [
+        {
+            "age_in_yrs": 30, 
+            "hospital_id": 1, 
+            "last_name": "MARTINEZ", 
+            "service_id": 1, 
+            "surgeries_last_month": 32, 
+            "surgeries_this_month": 69.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "LEWIS", 
+            "service_id": 3, 
+            "surgeries_last_month": 194, 
+            "surgeries_this_month": 232.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "JACKSON", 
+            "service_id": 1, 
+            "surgeries_last_month": 171, 
+            "surgeries_this_month": 243.0
+        }, 
+        {
+            "age_in_yrs": 65, 
+            "hospital_id": 1, 
+            "last_name": "WHITE", 
+            "service_id": 2, 
+            "surgeries_last_month": 106, 
+            "surgeries_this_month": 162.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "HALL", 
+            "service_id": 2, 
+            "surgeries_last_month": 91, 
+            "surgeries_this_month": 172.0
+        }, 
+        {
+            "age_in_yrs": 32, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 166, 
+            "surgeries_this_month": 191.0
+        }, 
+        {
+            "age_in_yrs": 45, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 2, 
+            "surgeries_last_month": 35, 
+            "surgeries_this_month": 62.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 1, 
+            "surgeries_last_month": 36, 
+            "surgeries_this_month": 55.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "WILLIAMS", 
+            "service_id": 2, 
+            "surgeries_last_month": 78, 
+            "surgeries_this_month": 159.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "SMITH", 
+            "service_id": 2, 
+            "surgeries_last_month": 213, 
+            "surgeries_this_month": 300.0
+        }, 
+        {
+            "age_in_yrs": 50, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 1, 
+            "surgeries_last_month": 94, 
+            "surgeries_this_month": 113.0
+        }, 
+        {
+            "age_in_yrs": 37, 
+            "hospital_id": 1, 
+            "last_name": "JOHNSON", 
+            "service_id": 2, 
+            "surgeries_last_month": 159, 
+            "surgeries_this_month": 211.0
+        }, 
+        {
+            "age_in_yrs": 58, 
+            "hospital_id": 1, 
+            "last_name": "MARTIN", 
+            "service_id": 3, 
+            "surgeries_last_month": 78, 
+            "surgeries_this_month": 80.0
+        }, 
+        {
+            "age_in_yrs": 51, 
+            "hospital_id": 1, 
+            "last_name": "CLARK", 
+            "service_id": 1, 
+            "surgeries_last_month": 212, 
+            "surgeries_this_month": 226.0
+        }, 
+        {
+            "age_in_yrs": 48, 
+            "hospital_id": 1, 
+            "last_name": "KING", 
+            "service_id": 3, 
+            "surgeries_last_month": 34, 
+            "surgeries_this_month": 52.0
+        }, 
+        {
+            "age_in_yrs": 40, 
+            "hospital_id": 1, 
+            "last_name": "MILLER", 
+            "service_id": 1, 
+            "surgeries_last_month": 46, 
+            "surgeries_this_month": 61.0
+        }, 
+        {
+            "age_in_yrs": 62, 
+            "hospital_id": 1, 
+            "last_name": "ROBINSON", 
+            "service_id": 3, 
+            "surgeries_last_month": 247, 
+            "surgeries_this_month": 231.0
+        }, 
+        {
+            "age_in_yrs": 61, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 128, 
+            "surgeries_this_month": 171.0
+        }, 
+        {
+            "age_in_yrs": 50, 
+            "hospital_id": 1, 
+            "last_name": "DAVIS", 
+            "service_id": 2, 
+            "surgeries_last_month": 192, 
+            "surgeries_this_month": 261.0
+        }, 
+        {
+            "age_in_yrs": 46, 
+            "hospital_id": 1, 
+            "last_name": "HARRIS", 
+            "service_id": 1, 
+            "surgeries_last_month": 29, 
+            "surgeries_this_month": 66.0
+        }
+    ]
+}
